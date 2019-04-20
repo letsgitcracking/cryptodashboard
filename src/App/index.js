@@ -10,8 +10,8 @@ class App extends Component {
     return (
       <AppLayout>
         <AppProvider>
-        <AppBar/>
-        <Settings/>
+          <AppBar/>
+          <Settings/>
         </AppProvider>
       </AppLayout>
     );
