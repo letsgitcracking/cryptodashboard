@@ -7,7 +7,6 @@ const CoinImage = styled.img`
         height: 200px;
         margin: auto;
         display: block;
-
     `}
 `
 
