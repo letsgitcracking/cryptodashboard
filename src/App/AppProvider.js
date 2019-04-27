@@ -89,7 +89,7 @@ export class AppProvider extends React.Component {
     );
   };
 
-  setCurentFavorite = sym => {
+  setCurrentFavorite = sym => {
     this.setState({
       currentFavorite: sym
     });
